@@ -327,21 +327,6 @@ $period_cookie = 2592000;
 
                 <a href="#order_form" rel='2' class="evakhaixqjj whfcjqfvlf">Оформити замовлення</a>
             </div>
-            <br>
-            <section class="cat" id="elxuqritaxkpi">
-                <ul class="ijhzjapohwp">
-                    <li>
-                        <div><img src="files/l_1.webp" alt=""></div>
-                    </li>
-                    <li>
-                        <div><img src="files/l_2.webp" alt=""></div>
-                    </li>
-                    <li>
-                        <div><img src="files/l_3.webp" alt=""></div>
-                    </li>
-
-                </ul>
-            </section>
 
             <br>
             <section class="qwlpvuiauwijrp">
